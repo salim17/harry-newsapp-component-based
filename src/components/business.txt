@@ -1,0 +1,7 @@
+science
+business
+entertainment
+general
+health
+sports
+technology
